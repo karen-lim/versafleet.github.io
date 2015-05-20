@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $("#u888").click(function(){
+  $(".dwuserEasyRotator").click(function(){
     ga('send', 'event', 'Rotator', 'Click', 'rotator');
   });
 });
